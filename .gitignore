@@ -9,6 +9,9 @@ out/
 
 # Docs
 docs/
+broadcast/
+
+Makefile
 
 # Dotenv file
 .env
